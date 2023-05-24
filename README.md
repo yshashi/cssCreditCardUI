@@ -11,3 +11,18 @@ Please let us know your availability for a call, and we will schedule the call a
 Thank you for your time and consideration.
 
 Best regards,
+
+
+
+
+Subject: Request for Pre-production Backup and Cargo v2 Integration
+
+Dear [Database Team],
+
+I hope you're doing well. I kindly request your assistance in the following tasks:
+
+Backup: Please take a backup of our pre-production environment's database and ensure its completeness. Storage: Securely store the backup on our pre-production server with appropriate access controls. Additionally, I would appreciate your guidance on integrating this backup into Cargo v2. Please advise on the necessary steps, including any configuration changes or tools required.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
